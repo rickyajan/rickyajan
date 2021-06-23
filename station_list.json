@@ -1,0 +1,123 @@
+{
+    "stations": [
+        {
+            "name": "Sample TV Channel 1",
+            "logo": "tv.png",
+            "url": [
+                "http://51.52.156.22:8888/http/004"
+            ]
+        },
+        {
+            "name": "Sample TV Channel 2",
+            "logo": "tv.png",
+            "url": [
+                "http://51.52.156.22:8888/http/004"
+            ]
+        },
+		{
+            "name": "Sample TV Channel 3",
+            "logo": "tv.png",
+            "url": [
+                "http://51.52.156.22:8888/http/004"
+            ]
+        },
+		{
+            "name": "Sample TV Channel 4",
+            "logo": "tv.png",
+            "url": [
+                "http://51.52.156.22:8888/http/004"
+            ]
+        },
+		{
+            "name": "Sample TV Channel 5",
+            "logo": "tv.png",
+            "url": [
+                "http://51.52.156.22:8888/http/004"
+            ]
+        },
+		{
+            "name": "Sample TV Channel 6",
+            "logo": "tv.png",
+            "url": [
+                "http://51.52.156.22:8888/http/004"
+            ]
+        },
+		{
+            "name": "Sample TV Channel 7",
+            "logo": "tv.png",
+            "url": [
+                "http://51.52.156.22:8888/http/004"
+            ]
+        },
+		{
+            "name": "Sample TV Channel 8",
+            "logo": "tv.png",
+            "url": [
+                "http://51.52.156.22:8888/http/004"
+            ]
+        },
+		{
+            "name": "Sample TV Channel 9",
+            "logo": "tv.png",
+            "url": [
+                "http://51.52.156.22:8888/http/004"
+            ]
+        },
+		{
+            "name": "Sample TV Channel 10",
+            "logo": "tv.png",
+            "url": [
+                "http://51.52.156.22:8888/http/004"
+            ]
+        },
+		{
+            "name": "Sample TV Channel 11",
+            "logo": "tv.png",
+            "url": [
+                "http://51.52.156.22:8888/http/004"
+            ]
+        },
+		{
+            "name": "Sample TV Channel 12",
+            "logo": "tv.png",
+            "url": [
+                "http://51.52.156.22:8888/http/004"
+            ]
+        },
+		{
+            "name": "Sample TV Channel 13",
+            "logo": "tv.png",
+            "url": [
+                "http://51.52.156.22:8888/http/004"
+            ]
+        },
+		{
+            "name": "Sample TV Channel 14",
+            "logo": "tv.png",
+            "url": [
+                "http://51.52.156.22:8888/http/004"
+            ]
+        },
+		{
+            "name": "Sample TV Channel 15",
+            "logo": "tv.png",
+            "url": [
+                "http://51.52.156.22:8888/http/004"
+            ]
+        },
+		{
+            "name": "Sample TV Channel 16",
+            "logo": "tv.png",
+            "url": [
+                "http://51.52.156.22:8888/http/004"
+            ]
+        },
+		{
+            "name": "Sample TV Channel 17",
+            "logo": "tv.png",
+            "url": [
+                "http://51.52.156.22:8888/http/004"
+            ]
+        }
+    ]
+}
