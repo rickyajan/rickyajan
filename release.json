@@ -1,0 +1,6 @@
+{
+    "versionCode": 446,
+    "versionName": "v1.6",
+    "changelog": ["perbaikan icon di launcher androidtv (leanback/atv)", "perbaikan player yg gak munculin loading", "playlist selalu terbaru (tdk menggunakan cache)"],
+    "downloadUrl": "https://github.com/hariimurti/NontonTV/releases/download/v1.6/net.harimurti.tv_v1.6_b446.apk"
+}
