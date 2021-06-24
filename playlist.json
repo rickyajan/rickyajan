@@ -15,16 +15,16 @@
       "name": "Malaysia"
     },
     {
-      "id": 8,
+      "id": 9,
       "name": "Media Prima"
     },
     {
       "id": 2,
-      "name": "Movie"
+      "name": "Indonesia Movie TV"
     },
     {
       "id": 3,
-      "name": "Malaysia Movie"
+      "name": "Malaysia TV Movie"
     },
     {
       "id": 4,
@@ -34,17 +34,15 @@
       "id": 5,
       "name": "Malaysia Radio"
     },
+
     {
       "id": 6,
-      "name": "KOREA"
+      "name": "Korea"
     },
+
     {
       "id": 7,
-      "name": "SUKAN"
-    },
-    {
-      "id": 8,
-      "name": "INDONESIA"
+      "name": "Sukan"
     }
   ],
   "channels": [
@@ -82,11 +80,6 @@
       "cid": 0,
       "name": "Aniplus HD",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6697"
-    },
-    {
-      "cid": 8,
-      "name": "ANTV",
-      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8846"
     },
     {
       "cid": 0,
@@ -339,11 +332,6 @@
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6743"
     },
     {
-      "cid": 8,
-      "name": "Bandung TV",
-      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8855"
-    },
-    {
       "cid": 4,
       "name": "BBC Earth",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7233"
@@ -367,16 +355,6 @@
       "cid": 7,
       "name": "beIN Sports",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6749"
-    },
-    {
-      "cid": 1,
-      "name": "Berita RTM",
-      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7191"
-    },
-    {
-      "cid": 8,
-      "name": "Berita Satu",
-      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8853"
     },
     {
       "cid": 1,
@@ -539,19 +517,9 @@
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6766"
     },
     {
-      "cid": 8,
-      "name": "CNBC Indonesia",
-      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8849"
-    },
-    {
       "cid": 0,
       "name": "CNN HD",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6767"
-    },
-    {
-      "cid": 8,
-      "name": "CNN Indonesia",
-      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8851"
     },
     {
       "cid": 0,
@@ -949,11 +917,6 @@
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7170"
     },
     {
-      "cid": 8,
-      "name": "Indosiar",
-      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8845"
-    },
-    {
       "cid": 0,
       "name": "Jaya Max",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6802"
@@ -989,11 +952,6 @@
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6804"
     },
     {
-      "cid": 8,
-      "name": "Kompas TV",
-      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8850"
-    },
-    {
       "cid": 0,
       "name": "KPlus HD",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6805"
@@ -1012,11 +970,6 @@
       "cid": 0,
       "name": "Makkal TV",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6806"
-    },
-    {
-      "cid": 8,
-      "name": "Metro TV",
-      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8848"
     },
     {
       "cid": 2,
@@ -1069,11 +1022,6 @@
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7075"
     },
     {
-      "cid": 8,
-      "name": "Net. TV",
-      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8841"
-    },
-    {
       "cid": 2,
       "name": "New Kid TV",
       "stream_url": "https://newidco-newkid-1.samsung.wurl.com/manifest/playlist.m3u8"
@@ -1124,11 +1072,6 @@
       "stream_url": "https://linear-10.frequency.stream/10/hls/master/playlist.m3u8"
     },
     {
-      "cid": 8,
-      "name": "RCTI",
-      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8854"
-    },
-    {
       "cid": 3,
       "name": "Red By HBO HD",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7071"
@@ -1162,11 +1105,6 @@
       "cid": 2,
       "name": "SCM Legend",
       "stream_url": "https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd"
-    },
-    {
-      "cid": 8,
-      "name": "SCTV",
-      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8842"
     },
     {
       "cid": 5,
@@ -1257,16 +1195,6 @@
       "cid": 0,
       "name": "TLC HD",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6832"
-    },
-    {
-      "cid": 8,
-      "name": "Trans 7",
-      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8844"
-    },
-    {
-      "cid": 8,
-      "name": "TransTV",
-      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8843"
     },
     {
       "cid": 0,
@@ -1397,11 +1325,6 @@
       "cid": 3,
       "name": "tVN movies HD",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7074"
-    },
-    {
-      "cid": 8,
-      "name": "TVRI",
-      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8852"
     },
     {
       "cid": 0,
