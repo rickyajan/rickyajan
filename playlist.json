@@ -15,32 +15,36 @@
       "name": "Malaysia"
     },
     {
-      "id": 1,
-      "name": "Berita"
+      "id": 8,
+      "name": "Media Prima"
     },
     {
       "id": 2,
-      "name": "Hiburan"
+      "name": "Movie"
     },
     {
       "id": 3,
-      "name": "Muzik"
+      "name": "Malaysia Movie"
     },
     {
       "id": 4,
-      "name": "Kanak-Kanak"
+      "name": "Dokumentari"
     },
     {
       "id": 5,
-      "name": "National"
+      "name": "Malaysia Radio"
     },
     {
       "id": 6,
-      "name": "Agama"
+      "name": "KOREA"
     },
     {
       "id": 7,
-      "name": "Sukan"
+      "name": "SUKAN"
+    },
+    {
+      "id": 8,
+      "name": "INDONESIA"
     }
   ],
   "channels": [
@@ -50,34 +54,9 @@
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6692"
     },
     {
-      "cid": 7,
-      "name": "ACCDN",
-      "stream_url": "https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "Adventure Sports Network",
-      "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8"
-    },
-    {
       "cid": 2,
       "name": "AFV Family",
       "stream_url": "http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8"
-    },
-    {
-      "cid": 6,
-      "name": "Ahsan TV",
-      "stream_url": "http://119.82.224.75:1935/live/ahsantv/playlist.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "Al Jazeera English",
-      "stream_url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
-    },
-    {
-      "cid": 6,
-      "name": "Al Quran Al Kareem",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd"
     },
     {
       "cid": 0,
@@ -85,9 +64,9 @@
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6694"
     },
     {
-      "cid": 5,
+      "cid": 4,
       "name": "Animal Planet",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd"
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7077"
     },
     {
       "cid": 0,
@@ -95,29 +74,9 @@
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6695"
     },
     {
-      "cid": 5,
-      "name": "Animals Live",
-      "stream_url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8"
-    },
-    {
-      "cid": 4,
-      "name": "Animax",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd"
-    },
-    {
       "cid": 0,
       "name": "Animax",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6696"
-    },
-    {
-      "cid": 4,
-      "name": "Animax Asia",
-      "stream_url": "http://210.210.155.35/dr9445/h/h144/02.m3u8"
-    },
-    {
-      "cid": 4,
-      "name": "Aniplus Asia",
-      "stream_url": "http://210.210.155.35/dr9445/h/h02/index.m3u8"
     },
     {
       "cid": 0,
@@ -125,9 +84,14 @@
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6697"
     },
     {
-      "cid": 1,
-      "name": "Arirang",
-      "stream_url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+      "cid": 8,
+      "name": "ANTV",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8846"
+    },
+    {
+      "cid": 0,
+      "name": "Asia Food Network",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8857"
     },
     {
       "cid": 0,
@@ -175,6 +139,11 @@
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6706"
     },
     {
+      "cid": 7,
+      "name": "ASTRO Arena HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6707"
+    },
+    {
       "cid": 0,
       "name": "ASTRO Aura HD",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6713"
@@ -203,6 +172,11 @@
       "cid": 0,
       "name": "ASTRO Colors Tamil",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6716"
+    },
+    {
+      "cid": 7,
+      "name": "ASTRO Cricket",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6717"
     },
     {
       "cid": 0,
@@ -265,6 +239,11 @@
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6731"
     },
     {
+      "cid": 7,
+      "name": "ASTRO SPORTS",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7214"
+    },
+    {
       "cid": 0,
       "name": "ASTRO Star Vijay HD",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6732"
@@ -273,6 +252,26 @@
       "cid": 0,
       "name": "ASTRO Sun TV HD",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6733"
+    },
+    {
+      "cid": 7,
+      "name": "ASTRO SUPERSPORT 2 HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6710"
+    },
+    {
+      "cid": 7,
+      "name": "ASTRO SUPERSPORT 3 HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6711"
+    },
+    {
+      "cid": 7,
+      "name": "ASTRO SUPERSPORT 4 HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6712"
+    },
+    {
+      "cid": 7,
+      "name": "ASTRO SUPERSPORT HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6708"
     },
     {
       "cid": 0,
@@ -320,6 +319,11 @@
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6742"
     },
     {
+      "cid": 3,
+      "name": "AXN",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7223"
+    },
+    {
       "cid": 2,
       "name": "AXN",
       "stream_url": "http://210.210.155.66/h/h141/01.m3u8"
@@ -335,9 +339,14 @@
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6743"
     },
     {
-      "cid": 5,
-      "name": "BBC Earth [HD]",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd"
+      "cid": 8,
+      "name": "Bandung TV",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8855"
+    },
+    {
+      "cid": 4,
+      "name": "BBC Earth",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7233"
     },
     {
       "cid": 0,
@@ -345,19 +354,34 @@
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6746"
     },
     {
-      "cid": 1,
-      "name": "BBC World News",
-      "stream_url": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"
+      "cid": 7,
+      "name": "beIN MAX",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6748"
     },
     {
       "cid": 7,
-      "name": "BeIN Sports Xtra",
-      "stream_url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true"
+      "name": "beIN MAX 2",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7195"
+    },
+    {
+      "cid": 7,
+      "name": "beIN Sports",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6749"
     },
     {
       "cid": 1,
-      "name": "BeritaSatu",
-      "stream_url": "https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8"
+      "name": "Berita RTM",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7191"
+    },
+    {
+      "cid": 8,
+      "name": "Berita Satu",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8853"
+    },
+    {
+      "cid": 1,
+      "name": "BERNAMA",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7190"
     },
     {
       "cid": 0,
@@ -370,11 +394,6 @@
       "stream_url": "http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdyv_lWVEr0cSEOBCkIyfTS"
     },
     {
-      "cid": 4,
-      "name": "Biznet Kids",
-      "stream_url": "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC"
-    },
-    {
       "cid": 2,
       "name": "Biznet Lifestyle",
       "stream_url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR"
@@ -385,9 +404,19 @@
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6751"
     },
     {
+      "cid": 0,
+      "name": "Blue Ant Entertainment",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8860"
+    },
+    {
       "cid": 2,
       "name": "Blue Ant Extreme",
       "stream_url": "http://45.126.83.51/dr9445/h/h15/01.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "Blue Ant Extreme",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8861"
     },
     {
       "cid": 0,
@@ -395,24 +424,29 @@
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6754"
     },
     {
-      "cid": 4,
-      "name": "Cartoon Network",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd"
+      "cid": 7,
+      "name": "BT Sport 1",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6610"
     },
     {
-      "cid": 4,
-      "name": "Cartoon Network Asia",
-      "stream_url": "https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8"
+      "cid": 7,
+      "name": "BT Sport 2",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6611"
+    },
+    {
+      "cid": 7,
+      "name": "BT Sport 3",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6612"
+    },
+    {
+      "cid": 7,
+      "name": "BT Sport ESPN",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6613"
     },
     {
       "cid": 0,
       "name": "Cartoon Network HD",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6757"
-    },
-    {
-      "cid": 4,
-      "name": "Cbeebies",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd"
     },
     {
       "cid": 0,
@@ -430,6 +464,11 @@
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6758"
     },
     {
+      "cid": 3,
+      "name": "Celestial Classic Movies",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7222"
+    },
+    {
       "cid": 2,
       "name": "Celestial Movie",
       "stream_url": "https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd"
@@ -440,39 +479,19 @@
       "stream_url": "http://210.210.155.35/qwr9ew/s/s33/index.m3u8"
     },
     {
+      "cid": 3,
+      "name": "Celestial Movies",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7235"
+    },
+    {
       "cid": 0,
       "name": "Celestial Movies HD",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6760"
     },
     {
-      "cid": 7,
-      "name": "Champion TV 1",
-      "stream_url": "http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=champion1"
-    },
-    {
-      "cid": 7,
-      "name": "Champion TV 2",
-      "stream_url": "http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=champion2"
-    },
-    {
-      "cid": 7,
-      "name": "Channel 3 [HD]",
-      "stream_url": "https://cdnlive.goprimetime.info/feed/ch3hd/index.m3u8"
-    },
-    {
       "cid": 0,
       "name": "Channel News Asia HD",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6765"
-    },
-    {
-      "cid": 1,
-      "name": "Channel NewsAsia",
-      "stream_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8"
-    },
-    {
-      "cid": 3,
-      "name": "Channel V",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd"
     },
     {
       "cid": 0,
@@ -487,12 +506,17 @@
     {
       "cid": 2,
       "name": "Cinema World",
-      "stream_url": "http://210.210.155.35/uq2663/h/h04/index2.m3u8"
+      "stream_url": "https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd"
     },
     {
       "cid": 2,
       "name": "Cinema World",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd"
+      "stream_url": "http://210.210.155.35/uq2663/h/h04/index2.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "Cinema World",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7219"
     },
     {
       "cid": 2,
@@ -500,19 +524,34 @@
       "stream_url": "https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd"
     },
     {
+      "cid": 3,
+      "name": "Cinemax FHD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7062"
+    },
+    {
       "cid": 0,
       "name": "Cinemax HD",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6764"
     },
     {
-      "cid": 1,
-      "name": "CNBC Indonesia",
-      "stream_url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8"
+      "cid": 0,
+      "name": "CNBC",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6766"
     },
     {
-      "cid": 1,
+      "cid": 8,
+      "name": "CNBC Indonesia",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8849"
+    },
+    {
+      "cid": 0,
+      "name": "CNN HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6767"
+    },
+    {
+      "cid": 8,
       "name": "CNN Indonesia",
-      "stream_url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8"
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8851"
     },
     {
       "cid": 0,
@@ -530,14 +569,14 @@
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6770"
     },
     {
-      "cid": 4,
-      "name": "CONtv Anime",
-      "stream_url": "https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8"
-    },
-    {
       "cid": 2,
       "name": "Crackle",
       "stream_url": "https://crackle-plex.amagi.tv/playlist.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "Crime & Investigation",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8858"
     },
     {
       "cid": 0,
@@ -545,24 +584,19 @@
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6756"
     },
     {
-      "cid": 5,
-      "name": "Crime Investigation",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd"
-    },
-    {
       "cid": 0,
       "name": "CTI Asia",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6771"
     },
     {
-      "cid": 6,
-      "name": "DAAI TV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd"
+      "cid": 1,
+      "name": "Didik TV (NTV 7)",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8922"
     },
     {
-      "cid": 7,
-      "name": "DD Sports",
-      "stream_url": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8"
+      "cid": 4,
+      "name": "Discovery Asia",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8856"
     },
     {
       "cid": 0,
@@ -570,9 +604,9 @@
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6772"
     },
     {
-      "cid": 5,
-      "name": "Discovery Channel",
-      "stream_url": "https://mkctvbro.my.id/horas/pakailah.m3u8?id=disco&bandwidth=default&sync=0"
+      "cid": 4,
+      "name": "Discovery Channel HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7078"
     },
     {
       "cid": 0,
@@ -585,34 +619,9 @@
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6774"
     },
     {
-      "cid": 4,
-      "name": "Disney Channel",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd"
-    },
-    {
-      "cid": 4,
-      "name": "Disney Junior [HD]",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd"
-    },
-    {
-      "cid": 4,
-      "name": "Disney XD",
-      "stream_url": "http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8"
-    },
-    {
-      "cid": 3,
-      "name": "DJing Hits",
-      "stream_url": "https://www.djing.com/tv/hits.m3u8"
-    },
-    {
-      "cid": 3,
-      "name": "DJing Karaoke",
-      "stream_url": "https://www.djing.com/tv/karaoke.m3u8"
-    },
-    {
-      "cid": 3,
-      "name": "DJing Live",
-      "stream_url": "https://www.djing.com/tv/live.m3u8"
+      "cid": 0,
+      "name": "Disney Channel HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7196"
     },
     {
       "cid": 0,
@@ -626,43 +635,98 @@
     },
     {
       "cid": 7,
-      "name": "Dubai Racing",
-      "stream_url": "https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8"
+      "name": "DSTV Supersport",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7215"
     },
     {
       "cid": 7,
-      "name": "Dubai Racing 2",
-      "stream_url": "https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8"
+      "name": "DSTV: SuperSport Action",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6581"
     },
     {
       "cid": 7,
-      "name": "Dubai Racing 3",
-      "stream_url": "https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8"
+      "name": "DSTV: Supersport Blitz",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6584"
     },
     {
       "cid": 7,
-      "name": "Dubai Sport",
-      "stream_url": "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8"
+      "name": "DSTV: SuperSport Cricket",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6583"
     },
     {
       "cid": 7,
-      "name": "Dubai Sport 2",
-      "stream_url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8"
+      "name": "DSTV: SuperSport Football",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6576"
     },
     {
       "cid": 7,
-      "name": "Dubai Sport 3",
-      "stream_url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8"
+      "name": "DSTV: SuperSport Golf",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7145"
     },
     {
       "cid": 7,
-      "name": "Dunia Games",
-      "stream_url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/index.m3u8"
+      "name": "DSTV: SuperSport Grandstand",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6572"
     },
     {
-      "cid": 1,
-      "name": "DW",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd"
+      "cid": 7,
+      "name": "DSTV: SuperSport La Liga",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6575"
+    },
+    {
+      "cid": 7,
+      "name": "DSTV: SuperSport MÃ¡Ximo",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6585"
+    },
+    {
+      "cid": 7,
+      "name": "DSTV: SuperSport Motorsport",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7142"
+    },
+    {
+      "cid": 7,
+      "name": "DSTV: SuperSport Premier League",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6574"
+    },
+    {
+      "cid": 7,
+      "name": "DSTV: SuperSport PSL",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6573"
+    },
+    {
+      "cid": 7,
+      "name": "DSTV: SuperSport Rugby",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6582"
+    },
+    {
+      "cid": 7,
+      "name": "DSTV: SuperSport Tennis",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7143"
+    },
+    {
+      "cid": 7,
+      "name": "DSTV: SuperSport Variety 1",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6577"
+    },
+    {
+      "cid": 7,
+      "name": "DSTV: SuperSport Variety 2",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6578"
+    },
+    {
+      "cid": 7,
+      "name": "DSTV: SuperSport Variety 3",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6579"
+    },
+    {
+      "cid": 7,
+      "name": "DSTV: SuperSport Variety 4",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6580"
+    },
+    {
+      "cid": 7,
+      "name": "DSTV: SuperSport WWE",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7144"
     },
     {
       "cid": 0,
@@ -670,44 +734,19 @@
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6782"
     },
     {
-      "cid": 7,
-      "name": "Edge Sport",
-      "stream_url": "https://edgesport-samsunguk.amagi.tv/playlist.m3u8"
-    },
-    {
       "cid": 0,
       "name": "eGG Network",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6783"
     },
     {
-      "cid": 6,
-      "name": "Elshinta TV",
-      "stream_url": "http://210.210.155.35/qwr9ew/s/s10/index.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "ESPN",
-      "stream_url": "http://164.68.124.111/fs2.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "ESPN 2",
-      "stream_url": "http://164.68.124.111/espn2.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "ESPN U",
-      "stream_url": "http://164.68.124.111/espnu.m3u8"
+      "cid": 5,
+      "name": "Era FM",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7169"
     },
     {
       "cid": 0,
       "name": "Eurosport HD",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6784"
-    },
-    {
-      "cid": 6,
-      "name": "EWTN",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd"
     },
     {
       "cid": 2,
@@ -725,11 +764,6 @@
       "stream_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist==.m3u8"
     },
     {
-      "cid": 7,
-      "name": "Fight Sports",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd"
-    },
-    {
       "cid": 2,
       "name": "FMN",
       "stream_url": "https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd"
@@ -745,9 +779,24 @@
       "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd"
     },
     {
+      "cid": 3,
+      "name": "FOX",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7227"
+    },
+    {
+      "cid": 3,
+      "name": "Fox Action Movies",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8839"
+    },
+    {
       "cid": 2,
       "name": "Fox Action Movies",
       "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd"
+    },
+    {
+      "cid": 3,
+      "name": "Fox Crime",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7225"
     },
     {
       "cid": 2,
@@ -760,39 +809,34 @@
       "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd"
     },
     {
+      "cid": 3,
+      "name": "Fox Life",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7228"
+    },
+    {
+      "cid": 3,
+      "name": "Fox Movies Premium",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8838"
+    },
+    {
       "cid": 2,
       "name": "FOX Movies Premium",
       "stream_url": "https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd"
     },
     {
       "cid": 7,
-      "name": "Fox Sports 1 [HD]",
-      "stream_url": "https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8"
+      "name": "FOX Sports 2 HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6791"
     },
     {
       "cid": 7,
-      "name": "Fox Sports 2 [HD]",
-      "stream_url": "https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8"
+      "name": "FOX Sports 3 HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6792"
     },
     {
       "cid": 7,
-      "name": "Fox Sports 3 [HD]",
-      "stream_url": "https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "Fox Sports Asia",
-      "stream_url": "https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "Fox Sports Asia 2",
-      "stream_url": "https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "Fox Sports News",
-      "stream_url": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8"
+      "name": "FOX Sports HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6793"
     },
     {
       "cid": 0,
@@ -800,19 +844,14 @@
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6794"
     },
     {
-      "cid": 7,
-      "name": "FTF - For The Fans",
-      "stream_url": "https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8"
-    },
-    {
       "cid": 2,
       "name": "GEM [ID]",
       "stream_url": "http://210.210.155.35/uq2663/h/h19/01.m3u8"
     },
     {
-      "cid": 4,
-      "name": "HappyKids",
-      "stream_url": "https://happykids-vizio.amagi.tv/playlist480p.m3u8"
+      "cid": 7,
+      "name": "Golf Channel HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6796"
     },
     {
       "cid": 2,
@@ -825,9 +864,29 @@
       "stream_url": "https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd"
     },
     {
+      "cid": 3,
+      "name": "HBO Family FHD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7070"
+    },
+    {
+      "cid": 3,
+      "name": "HBO FHD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7067"
+    },
+    {
+      "cid": 0,
+      "name": "HBO HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6797"
+    },
+    {
       "cid": 2,
       "name": "HBO Hits",
       "stream_url": "https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd"
+    },
+    {
+      "cid": 3,
+      "name": "HBO Hits FHD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7068"
     },
     {
       "cid": 2,
@@ -835,14 +894,29 @@
       "stream_url": "https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd"
     },
     {
-      "cid": 5,
-      "name": "HGTV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd"
+      "cid": 3,
+      "name": "HBO Signature FHD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7069"
     },
     {
-      "cid": 5,
-      "name": "History",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd"
+      "cid": 4,
+      "name": "HGTV",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7076"
+    },
+    {
+      "cid": 0,
+      "name": "HGTV HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6798"
+    },
+    {
+      "cid": 4,
+      "name": "History FHD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7079"
+    },
+    {
+      "cid": 0,
+      "name": "History HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6799"
     },
     {
       "cid": 2,
@@ -850,29 +924,34 @@
       "stream_url": "https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd"
     },
     {
+      "cid": 0,
+      "name": "Hits HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6800"
+    },
+    {
       "cid": 2,
       "name": "Hits Movies",
       "stream_url": "https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd"
     },
     {
-      "cid": 6,
-      "name": "I AM CHANNEL",
-      "stream_url": "http://iamchannel.org:1935/tes/1/chunklist.m3u8"
+      "cid": 0,
+      "name": "Hits Movies HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6801"
     },
     {
-      "cid": 1,
-      "name": "IDX Channel",
-      "stream_url": "https://stream-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd"
+      "cid": 5,
+      "name": "Hitz FM",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7171"
     },
     {
-      "cid": 1,
-      "name": "iNews",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd"
+      "cid": 5,
+      "name": "Hot FM",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7170"
     },
     {
-      "cid": 1,
-      "name": "Jakarta Globe",
-      "stream_url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8"
+      "cid": 8,
+      "name": "Indosiar",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8845"
     },
     {
       "cid": 0,
@@ -885,24 +964,14 @@
       "stream_url": "https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd"
     },
     {
-      "cid": 4,
-      "name": "Kartoon Fun Time",
-      "stream_url": "https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8"
+      "cid": 0,
+      "name": "KBS World HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6803"
     },
     {
-      "cid": 4,
-      "name": "Kidoodle TV",
-      "stream_url": "https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8"
-    },
-    {
-      "cid": 4,
-      "name": "Kids Channel",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd"
-    },
-    {
-      "cid": 4,
-      "name": "Kinder TV",
-      "stream_url": "http://autopilot.catcast.tv/content/38144/index.m3u8"
+      "cid": 3,
+      "name": "KiX",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7229"
     },
     {
       "cid": 2,
@@ -915,14 +984,19 @@
       "stream_url": "https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd"
     },
     {
-      "cid": 1,
-      "name": "Kompas TV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd"
+      "cid": 0,
+      "name": "Kix HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6804"
     },
     {
-      "cid": 6,
-      "name": "Life",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd"
+      "cid": 8,
+      "name": "Kompas TV",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8850"
+    },
+    {
+      "cid": 0,
+      "name": "KPlus HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6805"
     },
     {
       "cid": 2,
@@ -935,49 +1009,14 @@
       "stream_url": "https://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8"
     },
     {
-      "cid": 5,
-      "name": "Love Nature",
-      "stream_url": "http://bamus-eng-roku.amagi.tv/playlist.m3u8"
-    },
-    {
-      "cid": 6,
-      "name": "Madinah TV",
-      "stream_url": "http://45.126.83.51:80/qwr9ew/s/s27/01.m3u8"
-    },
-    {
-      "cid": 5,
-      "name": "Magellan TV",
-      "stream_url": "https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8"
-    },
-    {
-      "cid": 6,
-      "name": "Makkah TV",
-      "stream_url": "http://45.126.83.51:80/qwr9ew/s/s28/01.m3u8"
-    },
-    {
       "cid": 0,
       "name": "Makkal TV",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6806"
     },
     {
-      "cid": 1,
+      "cid": 8,
       "name": "Metro TV",
-      "stream_url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8"
-    },
-    {
-      "cid": 4,
-      "name": "Miao Mi",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd"
-    },
-    {
-      "cid": 7,
-      "name": "MMA Junkie",
-      "stream_url": "https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "MNC News",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd"
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8848"
     },
     {
       "cid": 2,
@@ -995,29 +1034,14 @@
       "stream_url": "https://moviesphere-plex.amagi.tv/playlist.m3u8"
     },
     {
-      "cid": 3,
+      "cid": 0,
       "name": "MTV",
-      "stream_url": "http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?fluxustv.m3u8"
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6807"
     },
     {
-      "cid": 3,
-      "name": "MTV Biggest Pop",
-      "stream_url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8"
-    },
-    {
-      "cid": 3,
-      "name": "MTV Spankin' New",
-      "stream_url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8"
-    },
-    {
-      "cid": 3,
-      "name": "Music Channel",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd"
-    },
-    {
-      "cid": 6,
-      "name": "Muslim TV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd"
+      "cid": 7,
+      "name": "MUTV",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7236"
     },
     {
       "cid": 2,
@@ -1026,38 +1050,28 @@
     },
     {
       "cid": 4,
-      "name": "My Kids",
-      "stream_url": "http://210.210.155.35/qwr9ew/s/s30/index2.m3u8"
+      "name": "Nat Geo People HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7080"
     },
     {
-      "cid": 5,
-      "name": "NASA TV",
-      "stream_url": "http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7"
+      "cid": 4,
+      "name": "Nat Geo Wild HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7081"
     },
     {
-      "cid": 5,
-      "name": "Nat Geo Channel",
-      "stream_url": "https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=default&sync=0"
+      "cid": 0,
+      "name": "NatGeo People",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6811"
     },
     {
-      "cid": 5,
-      "name": "Nat Geo People",
-      "stream_url": "https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&sync=0"
+      "cid": 4,
+      "name": "National Geographic HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7075"
     },
     {
-      "cid": 5,
-      "name": "Nat Geo Wild",
-      "stream_url": "https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=0"
-    },
-    {
-      "cid": 5,
-      "name": "Nat Geo Wild [Asia]",
-      "stream_url": "http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8"
-    },
-    {
-      "cid": 5,
-      "name": "National Geographic",
-      "stream_url": "https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8"
+      "cid": 8,
+      "name": "Net. TV",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8841"
     },
     {
       "cid": 2,
@@ -1070,34 +1084,19 @@
       "stream_url": "https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8"
     },
     {
-      "cid": 1,
-      "name": "NHK World",
-      "stream_url": "http://210.210.155.66/h/h23/02.m3u8"
-    },
-    {
       "cid": 2,
       "name": "Nick (Pluto TV)",
       "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
     },
     {
-      "cid": 4,
-      "name": "Nick Jr. (Pluto TV)",
-      "stream_url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
+      "cid": 0,
+      "name": "Nick Jr",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6813"
     },
     {
-      "cid": 4,
-      "name": "Nickelodeon",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd"
-    },
-    {
-      "cid": 4,
-      "name": "NickJr",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd"
-    },
-    {
-      "cid": 4,
-      "name": "Nicktoon",
-      "stream_url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"
+      "cid": 0,
+      "name": "Nickelodeon HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6814"
     },
     {
       "cid": 2,
@@ -1110,29 +1109,9 @@
       "stream_url": "http://45.126.83.51/uq2663/h/h143/index.m3u8"
     },
     {
-      "cid": 7,
-      "name": "One Sports",
-      "stream_url": "http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "ONEGOLF [HD]",
-      "stream_url": "http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "Outdoor Channel",
-      "stream_url": "https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "Outside TV+",
-      "stream_url": "https://outsidetvplus-stirr.amagi.tv/playlist.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "Pac-12 Insider",
-      "stream_url": "https://pac12-roku-us.amagi.tv/playlist.m3u8"
+      "cid": 0,
+      "name": "One HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6817"
     },
     {
       "cid": 2,
@@ -1140,29 +1119,19 @@
       "stream_url": "https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8"
     },
     {
-      "cid": 4,
-      "name": "Pocket.Watch",
-      "stream_url": "https://pocketwatch.samsung.wurl.com/manifest/playlist.m3u8"
-    },
-    {
       "cid": 2,
       "name": "Popstar! TV",
       "stream_url": "https://linear-10.frequency.stream/10/hls/master/playlist.m3u8"
     },
     {
-      "cid": 5,
-      "name": "Popular Science",
-      "stream_url": "http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8"
+      "cid": 8,
+      "name": "RCTI",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8854"
     },
     {
-      "cid": 7,
-      "name": "Racing.com",
-      "stream_url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "RedBull TV",
-      "stream_url": "http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
+      "cid": 3,
+      "name": "Red By HBO HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7071"
     },
     {
       "cid": 2,
@@ -1170,19 +1139,19 @@
       "stream_url": "http://a.jsrdn.com/broadcast/d37066a396/+0000/mid/c.m3u8"
     },
     {
-      "cid": 6,
-      "name": "Reformed 21",
-      "stream_url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8"
-    },
-    {
-      "cid": 6,
-      "name": "Rodja TV",
-      "stream_url": "http://210.210.155.35/qwr9ew/s/s14/02.m3u8"
+      "cid": 1,
+      "name": "RTB MALAYSIA",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7188"
     },
     {
       "cid": 1,
-      "name": "RRI Net",
-      "stream_url": "http://36.89.47.217:11935/rrinet/live/index.m3u8"
+      "name": "RTM Sports",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7186"
+    },
+    {
+      "cid": 7,
+      "name": "Rugby Pass TV",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6821"
     },
     {
       "cid": 2,
@@ -1195,6 +1164,16 @@
       "stream_url": "https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd"
     },
     {
+      "cid": 8,
+      "name": "SCTV",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8842"
+    },
+    {
+      "cid": 5,
+      "name": "Sinar FM",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7172"
+    },
+    {
       "cid": 2,
       "name": "Sinema Indonesia",
       "stream_url": "http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8"
@@ -1205,29 +1184,29 @@
       "stream_url": "https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8"
     },
     {
+      "cid": 0,
+      "name": "Sky News HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6826"
+    },
+    {
+      "cid": 6,
+      "name": "Sony Gem",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8864"
+    },
+    {
+      "cid": 6,
+      "name": "Sony One",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8863"
+    },
+    {
       "cid": 2,
       "name": "Sony One",
       "stream_url": "http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8"
     },
     {
-      "cid": 4,
-      "name": "Spacetoon",
-      "stream_url": "http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8"
-    },
-    {
-      "cid": 4,
-      "name": "Spacetoon [ID]",
-      "stream_url": "http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "Sports Channel Network",
-      "stream_url": "https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "Stadium",
-      "stream_url": "https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8"
+      "cid": 0,
+      "name": "Sony SAB",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6827"
     },
     {
       "cid": 2,
@@ -1235,39 +1214,9 @@
       "stream_url": "https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd"
     },
     {
-      "cid": 3,
-      "name": "Stingray Karaoke",
-      "stream_url": "https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
-    },
-    {
-      "cid": 3,
-      "name": "Street Music",
-      "stream_url": "https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8"
-    },
-    {
-      "cid": 4,
-      "name": "Supertoons",
-      "stream_url": "https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/1200.m3u8"
-    },
-    {
-      "cid": 6,
-      "name": "Tawaf TV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd"
-    },
-    {
-      "cid": 6,
-      "name": "Tegar TV",
-      "stream_url": "http://wms.klikhost.com/tegartv/live/playlist.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "Tennis Channel",
-      "stream_url": "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "Tennis Channel Plus",
-      "stream_url": "https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8"
+      "cid": 0,
+      "name": "Sun Music",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6831"
     },
     {
       "cid": 2,
@@ -1280,6 +1229,16 @@
       "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8"
     },
     {
+      "cid": 5,
+      "name": "THR GEGAR",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7174"
+    },
+    {
+      "cid": 3,
+      "name": "Thrill",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7220"
+    },
+    {
       "cid": 2,
       "name": "Thrill",
       "stream_url": "http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8"
@@ -1290,34 +1249,139 @@
       "stream_url": "https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd"
     },
     {
-      "cid": 4,
-      "name": "Toon Goggles",
-      "stream_url": "https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8"
+      "cid": 0,
+      "name": "TLC",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8862"
     },
     {
-      "cid": 4,
-      "name": "Toon Goggles Junior",
-      "stream_url": "https://tg-junior.samsung.wurl.com/manifest/playlist.m3u8"
+      "cid": 0,
+      "name": "TLC HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6832"
     },
     {
-      "cid": 4,
-      "name": "Toonmax",
-      "stream_url": "http://45.126.83.51/qwr9ew/s/s50/index.m3u8"
+      "cid": 8,
+      "name": "Trans 7",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8844"
     },
     {
-      "cid": 6,
-      "name": "TV Ikim",
-      "stream_url": "http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8"
+      "cid": 8,
+      "name": "TransTV",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8843"
     },
     {
-      "cid": 6,
-      "name": "TV Muhammadiyah",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd"
+      "cid": 0,
+      "name": "Travel Channel HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6833"
+    },
+    {
+      "cid": 7,
+      "name": "TSN",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8969"
+    },
+    {
+      "cid": 7,
+      "name": "TSN 1",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8923"
+    },
+    {
+      "cid": 7,
+      "name": "TSN 2",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8924"
+    },
+    {
+      "cid": 7,
+      "name": "TSN 3",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8925"
+    },
+    {
+      "cid": 7,
+      "name": "TSN 4",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8926"
     },
     {
       "cid": 1,
+      "name": "TV 1",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7177"
+    },
+    {
+      "cid": 1,
+      "name": "TV 2",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7178"
+    },
+    {
+      "cid": 1,
+      "name": "TV 3",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7266"
+    },
+    {
+      "cid": 1,
+      "name": "TV 3 HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8750"
+    },
+    {
+      "cid": 1,
+      "name": "TV 9",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7185"
+    },
+    {
+      "cid": 1,
+      "name": "TV IKIM",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7192"
+    },
+    {
+      "cid": 1,
+      "name": "TV Okey",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8921"
+    },
+    {
+      "cid": 8,
       "name": "TV One",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd"
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8847"
+    },
+    {
+      "cid": 0,
+      "name": "TV SARAWAK",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6846"
+    },
+    {
+      "cid": 0,
+      "name": "TV-AlHijrah",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6834"
+    },
+    {
+      "cid": 0,
+      "name": "TVB Classic",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6839"
+    },
+    {
+      "cid": 0,
+      "name": "TVB E-News",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6840"
+    },
+    {
+      "cid": 0,
+      "name": "TVB Jade HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6841"
+    },
+    {
+      "cid": 0,
+      "name": "TVB Xing He HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6842"
+    },
+    {
+      "cid": 0,
+      "name": "TVBS Asia HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6843"
+    },
+    {
+      "cid": 6,
+      "name": "TvN",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8865"
+    },
+    {
+      "cid": 0,
+      "name": "tvN HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6844"
     },
     {
       "cid": 2,
@@ -1325,74 +1389,29 @@
       "stream_url": "https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd"
     },
     {
-      "cid": 1,
-      "name": "TVRI",
-      "stream_url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "TVRI DKI Jakarta",
-      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "TVRI Jawa Barat",
-      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "TVRI Jawa Tengah",
-      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "TVRI Jawa Timur",
-      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "TVRI Nasional",
-      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "TVRI Sport",
-      "stream_url": "http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "TVRI Sport 2",
-      "stream_url": "http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "TVRI Yogyakarta",
-      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "UFC",
-      "stream_url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "UFC stadium",
-      "stream_url": "https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8"
+      "cid": 0,
+      "name": "tvN Movies",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6845"
     },
     {
       "cid": 3,
-      "name": "Vevo",
-      "stream_url": "https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8"
+      "name": "tVN movies HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7074"
+    },
+    {
+      "cid": 8,
+      "name": "TVRI",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8852"
+    },
+    {
+      "cid": 0,
+      "name": "UTV Movies International",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6847"
     },
     {
       "cid": 2,
       "name": "Vision Prime",
       "stream_url": "https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd"
-    },
-    {
-      "cid": 1,
-      "name": "Voice of America",
-      "stream_url": "http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8?fluxustv.m3u8"
     },
     {
       "cid": 2,
@@ -1405,14 +1424,29 @@
       "stream_url": "https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd"
     },
     {
+      "cid": 0,
+      "name": "Warner TV",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6848"
+    },
+    {
+      "cid": 3,
+      "name": "Warner TV HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7072"
+    },
+    {
+      "cid": 0,
+      "name": "WLT JADE",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8836"
+    },
+    {
+      "cid": 7,
+      "name": "WWE Network",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6849"
+    },
+    {
       "cid": 2,
       "name": "Zee Bioskop",
       "stream_url": "http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8"
-    },
-    {
-      "cid": 4,
-      "name": "Zoo Moo",
-      "stream_url": "https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8"
     }
   ]
 }
