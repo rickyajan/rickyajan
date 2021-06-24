@@ -12,7 +12,7 @@
   "categories": [
     {
       "id": 0,
-      "name": "Astro"
+      "name": "Malaysia"
     },
     {
       "id": 1,
@@ -24,26 +24,31 @@
     },
     {
       "id": 3,
-      "name": "Musik"
+      "name": "Muzik"
     },
     {
       "id": 4,
-      "name": "Anak"
+      "name": "Kanak-Kanak"
     },
     {
       "id": 5,
-      "name": "Edukasi"
+      "name": "National"
     },
     {
       "id": 6,
-      "name": "Religi"
+      "name": "Agama"
     },
     {
       "id": 7,
-      "name": "Olahraga"
+      "name": "Sukan"
     }
   ],
   "channels": [
+    {
+      "cid": 0,
+      "name": "ABC Australia",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6692"
+    },
     {
       "cid": 7,
       "name": "ACCDN",
@@ -75,9 +80,19 @@
       "stream_url": "https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd"
     },
     {
+      "cid": 0,
+      "name": "Al-Jazzera HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6694"
+    },
+    {
       "cid": 5,
       "name": "Animal Planet",
       "stream_url": "https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd"
+    },
+    {
+      "cid": 0,
+      "name": "Animal Planet HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6695"
     },
     {
       "cid": 5,
@@ -90,6 +105,11 @@
       "stream_url": "https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd"
     },
     {
+      "cid": 0,
+      "name": "Animax",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6696"
+    },
+    {
       "cid": 4,
       "name": "Animax Asia",
       "stream_url": "http://210.210.155.35/dr9445/h/h144/02.m3u8"
@@ -100,9 +120,19 @@
       "stream_url": "http://210.210.155.35/dr9445/h/h02/index.m3u8"
     },
     {
+      "cid": 0,
+      "name": "Aniplus HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6697"
+    },
+    {
       "cid": 1,
       "name": "Arirang",
       "stream_url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "Asian Food Network HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6693"
     },
     {
       "cid": 2,
@@ -111,8 +141,48 @@
     },
     {
       "cid": 0,
+      "name": "ASTRO Adithya",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6700"
+    },
+    {
+      "cid": 0,
+      "name": "ASTRO AEC HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6701"
+    },
+    {
+      "cid": 0,
+      "name": "ASTRO AOD 351 HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6702"
+    },
+    {
+      "cid": 0,
+      "name": "ASTRO AOD 352 HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6703"
+    },
+    {
+      "cid": 0,
+      "name": "ASTRO AOD 353 HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6704"
+    },
+    {
+      "cid": 0,
+      "name": "ASTRO AOD 354 HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6705"
+    },
+    {
+      "cid": 0,
+      "name": "ASTRO AOD 355 HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6706"
+    },
+    {
+      "cid": 0,
       "name": "ASTRO Aura HD",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6713"
+    },
+    {
+      "cid": 0,
+      "name": "ASTRO Awani HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6714"
     },
     {
       "cid": 0,
@@ -121,8 +191,23 @@
     },
     {
       "cid": 0,
+      "name": "ASTRO Ceria HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6715"
+    },
+    {
+      "cid": 0,
       "name": "Astro Citra HD",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7267"
+    },
+    {
+      "cid": 0,
+      "name": "ASTRO Colors Tamil",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6716"
+    },
+    {
+      "cid": 0,
+      "name": "ASTRO GO Shop 2",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6718"
     },
     {
       "cid": 0,
@@ -141,13 +226,43 @@
     },
     {
       "cid": 0,
+      "name": "ASTRO Rania HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6729"
+    },
+    {
+      "cid": 0,
       "name": "ASTRO Ria",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6730"
     },
     {
       "cid": 0,
+      "name": "ASTRO Star Vijay HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6732"
+    },
+    {
+      "cid": 0,
+      "name": "ASTRO Sun TV HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6733"
+    },
+    {
+      "cid": 0,
+      "name": "ASTRO Vaanavil HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6738"
+    },
+    {
+      "cid": 0,
+      "name": "ASTRO Vinmeen HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6739"
+    },
+    {
+      "cid": 0,
       "name": "ASTRO Warna HD",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6740"
+    },
+    {
+      "cid": 0,
+      "name": "ASTRO Zee Tamil HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6742"
     },
     {
       "cid": 2,
@@ -570,6 +685,11 @@
       "stream_url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8"
     },
     {
+      "cid": 0,
+      "name": "Jaya Max",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6802"
+    },
+    {
       "cid": 2,
       "name": "Jiangsu TV",
       "stream_url": "https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd"
@@ -643,6 +763,11 @@
       "cid": 6,
       "name": "Makkah TV",
       "stream_url": "http://45.126.83.51:80/qwr9ew/s/s28/01.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "Makkal TV",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6806"
     },
     {
       "cid": 1,
@@ -745,11 +870,6 @@
       "stream_url": "https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8"
     },
     {
-      "cid": 0,
-      "name": "NET. TV",
-      "stream_url": "http://210.210.155.35/qwr9ew/s/s08/01.m3u8"
-    },
-    {
       "cid": 2,
       "name": "New Kid TV",
       "stream_url": "https://newidco-newkid-1.samsung.wurl.com/manifest/playlist.m3u8"
@@ -850,11 +970,6 @@
       "stream_url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8"
     },
     {
-      "cid": 0,
-      "name": "RCTI",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd"
-    },
-    {
       "cid": 7,
       "name": "RedBull TV",
       "stream_url": "http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
@@ -880,11 +995,6 @@
       "stream_url": "http://36.89.47.217:11935/rrinet/live/index.m3u8"
     },
     {
-      "cid": 0,
-      "name": "RTV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd"
-    },
-    {
       "cid": 2,
       "name": "SCM",
       "stream_url": "https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd"
@@ -893,11 +1003,6 @@
       "cid": 2,
       "name": "SCM Legend",
       "stream_url": "https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd"
-    },
-    {
-      "cid": 0,
-      "name": "SCTV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd"
     },
     {
       "cid": 2,
@@ -955,11 +1060,6 @@
       "stream_url": "https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/1200.m3u8"
     },
     {
-      "cid": 0,
-      "name": "TATV",
-      "stream_url": "http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8"
-    },
-    {
       "cid": 6,
       "name": "Tawaf TV",
       "stream_url": "https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd"
@@ -1013,26 +1113,6 @@
       "cid": 4,
       "name": "Toonmax",
       "stream_url": "http://45.126.83.51/qwr9ew/s/s50/index.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "Trans 7",
-      "stream_url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "Trans 7 [ALT]",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd"
-    },
-    {
-      "cid": 0,
-      "name": "Trans TV",
-      "stream_url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "Trans TV [ALT]",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd"
     },
     {
       "cid": 6,
