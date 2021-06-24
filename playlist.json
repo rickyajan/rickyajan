@@ -111,6 +111,31 @@
     },
     {
       "cid": 0,
+      "name": "ASTRO Aura HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6713"
+    },
+    {
+      "cid": 0,
+      "name": "Astro Boo",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8872"
+    },
+    {
+      "cid": 0,
+      "name": "Astro Citra HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7267"
+    },
+    {
+      "cid": 0,
+      "name": "ASTRO Naura HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6724"
+    },
+    {
+      "cid": 0,
+      "name": "ASTRO Oasis HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6725"
+    },
+    {
+      "cid": 0,
       "name": "ASTRO Prima HD",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6727"
     },
@@ -237,12 +262,12 @@
     {
       "cid": 2,
       "name": "Cinema World",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd"
+      "stream_url": "http://210.210.155.35/uq2663/h/h04/index2.m3u8"
     },
     {
       "cid": 2,
       "name": "Cinema World",
-      "stream_url": "http://210.210.155.35/uq2663/h/h04/index2.m3u8"
+      "stream_url": "https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd"
     },
     {
       "cid": 2,
@@ -535,19 +560,9 @@
       "stream_url": "https://stream-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd"
     },
     {
-      "cid": 0,
-      "name": "Indosiar",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd"
-    },
-    {
       "cid": 1,
       "name": "iNews",
       "stream_url": "https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd"
-    },
-    {
-      "cid": 0,
-      "name": "Jak TV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd"
     },
     {
       "cid": 1,
@@ -558,16 +573,6 @@
       "cid": 2,
       "name": "Jiangsu TV",
       "stream_url": "https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd"
-    },
-    {
-      "cid": 0,
-      "name": "Jogja TV",
-      "stream_url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "JTV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd"
     },
     {
       "cid": 4,
@@ -658,11 +663,6 @@
       "cid": 1,
       "name": "MNC News",
       "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd"
-    },
-    {
-      "cid": 0,
-      "name": "MNC TV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd"
     },
     {
       "cid": 2,
