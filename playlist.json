@@ -12,7 +12,7 @@
   "categories": [
     {
       "id": 0,
-      "name": "BAMPUT"
+      "name": "Astro"
     },
     {
       "id": 1,
@@ -100,11 +100,6 @@
       "stream_url": "http://210.210.155.35/dr9445/h/h02/index.m3u8"
     },
     {
-      "cid": 0,
-      "name": "ASTRO RIA",
-      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6730"
-    },
-    {
       "cid": 1,
       "name": "Arirang",
       "stream_url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
@@ -115,6 +110,21 @@
       "stream_url": "https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8"
     },
     {
+      "cid": 0,
+      "name": "ASTRO Prima HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6727"
+    },
+    {
+      "cid": 0,
+      "name": "ASTRO Ria",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6730"
+    },
+    {
+      "cid": 0,
+      "name": "ASTRO Warna HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6740"
+    },
+    {
       "cid": 2,
       "name": "AXN",
       "stream_url": "http://210.210.155.66/h/h141/01.m3u8"
@@ -123,11 +133,6 @@
       "cid": 2,
       "name": "AXN [ALT]",
       "stream_url": "https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd"
-    },
-    {
-      "cid": 0,
-      "name": "Bali TV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd"
     },
     {
       "cid": 5,
@@ -475,11 +480,6 @@
       "stream_url": "http://210.210.155.35/uq2663/h/h19/01.m3u8"
     },
     {
-      "cid": 0,
-      "name": "GTV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd"
-    },
-    {
       "cid": 4,
       "name": "HappyKids",
       "stream_url": "https://happykids-vizio.amagi.tv/playlist480p.m3u8"
@@ -698,11 +698,6 @@
       "cid": 3,
       "name": "Music Channel",
       "stream_url": "https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd"
-    },
-    {
-      "cid": 3,
-      "name": "Music Top",
-      "stream_url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8"
     },
     {
       "cid": 6,
