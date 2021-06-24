@@ -211,6 +211,21 @@
     },
     {
       "cid": 0,
+      "name": "ASTRO Hello",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6721"
+    },
+    {
+      "cid": 0,
+      "name": "ASTRO Hua Hee Dai HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6722"
+    },
+    {
+      "cid": 0,
+      "name": "ASTRO iQIYI HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6723"
+    },
+    {
+      "cid": 0,
       "name": "ASTRO Naura HD",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6724"
     },
@@ -221,8 +236,18 @@
     },
     {
       "cid": 0,
+      "name": "ASTRO Oh!K HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6726"
+    },
+    {
+      "cid": 0,
       "name": "ASTRO Prima HD",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6727"
+    },
+    {
+      "cid": 0,
+      "name": "ASTRO Quan Jia HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6728"
     },
     {
       "cid": 0,
@@ -236,6 +261,11 @@
     },
     {
       "cid": 0,
+      "name": "ASTRO Shuang Xing HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6731"
+    },
+    {
+      "cid": 0,
       "name": "ASTRO Star Vijay HD",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6732"
     },
@@ -243,6 +273,26 @@
       "cid": 0,
       "name": "ASTRO Sun TV HD",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6733"
+    },
+    {
+      "cid": 0,
+      "name": "ASTRO Tutor TV PT3",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6734"
+    },
+    {
+      "cid": 0,
+      "name": "ASTRO Tutor TV SPM",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6735"
+    },
+    {
+      "cid": 0,
+      "name": "ASTRO Tutor TV UPSR",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6736"
+    },
+    {
+      "cid": 0,
+      "name": "ASTRO TVIQ",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6737"
     },
     {
       "cid": 0,
@@ -261,6 +311,11 @@
     },
     {
       "cid": 0,
+      "name": "ASTRO Xiao Tai Yang HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6741"
+    },
+    {
+      "cid": 0,
       "name": "ASTRO Zee Tamil HD",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6742"
     },
@@ -275,9 +330,19 @@
       "stream_url": "https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd"
     },
     {
+      "cid": 0,
+      "name": "AXN HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6743"
+    },
+    {
       "cid": 5,
       "name": "BBC Earth [HD]",
       "stream_url": "https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd"
+    },
+    {
+      "cid": 0,
+      "name": "BBC Lifestyle",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6746"
     },
     {
       "cid": 1,
@@ -295,6 +360,11 @@
       "stream_url": "https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8"
     },
     {
+      "cid": 0,
+      "name": "Bernama News",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6750"
+    },
+    {
       "cid": 2,
       "name": "Biznet Adventure",
       "stream_url": "http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdyv_lWVEr0cSEOBCkIyfTS"
@@ -310,9 +380,19 @@
       "stream_url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR"
     },
     {
+      "cid": 0,
+      "name": "Bloomberg TV",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6751"
+    },
+    {
       "cid": 2,
       "name": "Blue Ant Extreme",
       "stream_url": "http://45.126.83.51/dr9445/h/h15/01.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "BollyOne HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6754"
     },
     {
       "cid": 4,
@@ -325,14 +405,29 @@
       "stream_url": "https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8"
     },
     {
+      "cid": 0,
+      "name": "Cartoon Network HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6757"
+    },
+    {
       "cid": 4,
       "name": "Cbeebies",
       "stream_url": "https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd"
     },
     {
+      "cid": 0,
+      "name": "CCTV4 HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6759"
+    },
+    {
       "cid": 2,
       "name": "Celestial Classic",
       "stream_url": "https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd"
+    },
+    {
+      "cid": 0,
+      "name": "Celestial Classic Movies",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6758"
     },
     {
       "cid": 2,
@@ -343,6 +438,11 @@
       "cid": 2,
       "name": "Celestial Movie [ALT]",
       "stream_url": "http://210.210.155.35/qwr9ew/s/s33/index.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "Celestial Movies HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6760"
     },
     {
       "cid": 7,
@@ -360,6 +460,11 @@
       "stream_url": "https://cdnlive.goprimetime.info/feed/ch3hd/index.m3u8"
     },
     {
+      "cid": 0,
+      "name": "Channel News Asia HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6765"
+    },
+    {
       "cid": 1,
       "name": "Channel NewsAsia",
       "stream_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8"
@@ -368,6 +473,11 @@
       "cid": 3,
       "name": "Channel V",
       "stream_url": "https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd"
+    },
+    {
+      "cid": 0,
+      "name": "Chutti TV",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6762"
     },
     {
       "cid": 2,
@@ -388,6 +498,11 @@
       "cid": 2,
       "name": "Cinemax",
       "stream_url": "https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd"
+    },
+    {
+      "cid": 0,
+      "name": "Cinemax HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6764"
     },
     {
       "cid": 1,
