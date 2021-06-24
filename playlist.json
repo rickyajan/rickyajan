@@ -19,17 +19,21 @@
       "name": "Media Prima"
     },
     {
-      "id": 2,
-      "name": "Indonesia Movie TV"
-    },
-    {
       "id": 3,
       "name": "Malaysia TV Movie"
+    },
+    {
+      "id": 7,
+      "name": "Sukan"
     },
     {
       "id": 4,
       "name": "Dokumentari"
     },
+    {
+      "id": 2,
+      "name": "Indonesia Movie TV"
+    },  
     {
       "id": 5,
       "name": "Malaysia Radio"
@@ -37,10 +41,6 @@
     {
       "id": 6,
       "name": "Korea"
-    },
-    {
-      "id": 7,
-      "name": "Sukan"
     }
     ],
   "channels": [
