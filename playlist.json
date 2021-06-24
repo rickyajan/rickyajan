@@ -16,8 +16,8 @@
     },
     {
       "id": 8,
-      "name": "Media Prima"
-    },
+      "name": "Malaysia TV"
+    }
     {
       "id": 2,
       "name": "Indonesia Movie TV"
@@ -42,7 +42,8 @@
       "id": 7,
       "name": "Sukan"
     }
-    ],
+    
+  ],
   "channels": [
     {
       "cid": 0,
