@@ -30,6 +30,12 @@
       "id": 4,
       "name": "Dokumentari"
     },
+
+    {
+      "id": 10,
+      "name": "TV Indonesia"
+    },  
+
     {
       "id": 2,
       "name": "Indonesia Movie TV"
@@ -641,7 +647,7 @@
     },
     {
       "cid": 7,
-      "name": "DSTV: SuperSport MÃ¡Ximo",
+      "name": "DSTV: SuperSport MÃƒÂ¡Ximo",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6585"
     },
     {
@@ -1368,6 +1374,12 @@
       "cid": 2,
       "name": "Zee Bioskop",
       "stream_url": "http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8"
+    },
+ {
+      "cid": 10,
+      "name": "ANTV",
+      "stream_url": "https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd"
     }
+
   ]
 }
