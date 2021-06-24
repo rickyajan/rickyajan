@@ -515,6 +515,21 @@
       "stream_url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8"
     },
     {
+      "cid": 0,
+      "name": "Colors Cineplex",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6768"
+    },
+    {
+      "cid": 0,
+      "name": "Colors HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6769"
+    },
+    {
+      "cid": 0,
+      "name": "Comedy Central",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6770"
+    },
+    {
       "cid": 4,
       "name": "CONtv Anime",
       "stream_url": "https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8"
@@ -525,9 +540,19 @@
       "stream_url": "https://crackle-plex.amagi.tv/playlist.m3u8"
     },
     {
+      "cid": 0,
+      "name": "crime & investigation HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6756"
+    },
+    {
       "cid": 5,
       "name": "Crime Investigation",
       "stream_url": "https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd"
+    },
+    {
+      "cid": 0,
+      "name": "CTI Asia",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6771"
     },
     {
       "cid": 6,
@@ -540,9 +565,24 @@
       "stream_url": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8"
     },
     {
+      "cid": 0,
+      "name": "Discovery Asia",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6772"
+    },
+    {
       "cid": 5,
       "name": "Discovery Channel",
       "stream_url": "https://mkctvbro.my.id/horas/pakailah.m3u8?id=disco&bandwidth=default&sync=0"
+    },
+    {
+      "cid": 0,
+      "name": "Discovery HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6773"
+    },
+    {
+      "cid": 0,
+      "name": "Discovery Science HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6774"
     },
     {
       "cid": 4,
@@ -573,6 +613,16 @@
       "cid": 3,
       "name": "DJing Live",
       "stream_url": "https://www.djing.com/tv/live.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "DMAX HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6778"
+    },
+    {
+      "cid": 0,
+      "name": "Dreamworks HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6780"
     },
     {
       "cid": 7,
@@ -615,9 +665,19 @@
       "stream_url": "https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd"
     },
     {
+      "cid": 0,
+      "name": "DW HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6782"
+    },
+    {
       "cid": 7,
       "name": "Edge Sport",
       "stream_url": "https://edgesport-samsunguk.amagi.tv/playlist.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "eGG Network",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6783"
     },
     {
       "cid": 6,
@@ -638,6 +698,11 @@
       "cid": 7,
       "name": "ESPN U",
       "stream_url": "http://164.68.124.111/espnu.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "Eurosport HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6784"
     },
     {
       "cid": 6,
@@ -668,6 +733,11 @@
       "cid": 2,
       "name": "FMN",
       "stream_url": "https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd"
+    },
+    {
+      "cid": 0,
+      "name": "Food Network HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6785"
     },
     {
       "cid": 2,
@@ -723,6 +793,11 @@
       "cid": 7,
       "name": "Fox Sports News",
       "stream_url": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "France 24 HD",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6794"
     },
     {
       "cid": 7,
