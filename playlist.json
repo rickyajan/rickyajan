@@ -15,10 +15,6 @@
       "name": "Malaysia"
     },
     {
-      "id": 8,
-      "name": "Malaysia TV"
-    }
-    {
       "id": 2,
       "name": "Indonesia Movie TV"
     },
@@ -41,8 +37,11 @@
     {
       "id": 7,
       "name": "Sukan"
+    },
+    {
+      "id": 8,
+      "name": "Malaysia TV"
     }
-    
   ],
   "channels": [
     {
