@@ -41,12 +41,8 @@
     {
       "id": 7,
       "name": "Sukan"
-    },
-    {
-      "id": 8,
-      "name": "Malaysia TV"
     }
-  ],
+    ],
   "channels": [
     {
       "cid": 0,
@@ -559,7 +555,7 @@
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6771"
     },
     {
-      "cid": 8,
+      "cid": 1,
       "name": "Didik TV (NTV 7)",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8922"
     },
@@ -1084,12 +1080,12 @@
       "stream_url": "http://a.jsrdn.com/broadcast/d37066a396/+0000/mid/c.m3u8"
     },
     {
-      "cid": 8,
+      "cid": 1,
       "name": "RTB MALAYSIA",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7188"
     },
     {
-      "cid": 8,
+      "cid": 1,
       "name": "RTM Sports",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7186"
     },
@@ -1229,42 +1225,42 @@
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8926"
     },
     {
-      "cid": 8,
+      "cid": 1,
       "name": "TV 1",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7177"
     },
     {
-      "cid": 8,
+      "cid": 1,
       "name": "TV 2",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7178"
     },
     {
-      "cid": 8,
+      "cid": 1,
       "name": "TV 3",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7266"
     },
     {
-      "cid": 8,
+      "cid": 1,
       "name": "TV 3 HD",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8750"
     },
     {
-      "cid": 8,
+      "cid": 1,
       "name": "TV 9",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7185"
     },
     {
-      "cid": 8,
+      "cid": 1,
       "name": "TV IKIM",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/7192"
     },
     {
-      "cid": 8,
+      "cid": 1,
       "name": "TV Okey",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8921"
     },
     {
-      "cid": 8,
+      "cid": 1,
       "name": "TV One",
       "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/8847"
     },
