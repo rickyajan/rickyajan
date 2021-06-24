@@ -1379,7 +1379,78 @@
       "cid": 10,
       "name": "ANTV",
       "stream_url": "https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd"
+    },
+    {
+      "cid": 10,
+      "name": "Bali TV",
+      "stream_url": "https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd"
+    },
+{
+      "cid": 10,
+      "name": "GTV",
+      "stream_url": "https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd"
+    },
+{
+      "cid": 10,
+      "name": "Indosiar",
+      "stream_url": "https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd"
+    },
+{
+      "cid": 10,
+      "name": "Jak TV",
+      "stream_url": "https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd"
+    },
+{
+      "cid": 10,
+      "name": "Jogja TV",
+      "stream_url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8"
+    },
+{
+      "cid": 10,
+      "name": "JTV",
+      "stream_url": "https://liveanevia.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd"
+    },
+{
+      "cid": 10,
+      "name": "MNC TV",
+      "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd"
+    },
+{
+      "cid": 10,
+      "name": "NET. TV",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s08/01.m3u8"
+    },
+{
+      "cid": 10,
+      "name": "RCTI",
+      "stream_url": "https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd"
+    },
+{
+      "cid": 10,
+      "name": "RTV",
+      "stream_url": "https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd"
+    },
+{
+      "cid": 10,
+      "name": "SCTV",
+      "stream_url": "https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd"
+    },
+{
+      "cid": 10,
+      "name": "TATV",
+      "stream_url": "http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8"
+    },
+{
+      "cid": 10,
+      "name": "Trans 7",
+      "stream_url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8"
+    },
+{
+      "cid": 10,
+      "name": "Trans TV",
+      "stream_url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8"
     }
+
 
   ]
 }
